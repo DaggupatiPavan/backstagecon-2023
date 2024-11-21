@@ -193,7 +193,7 @@ metadata:
   name: chatbot-ui
   description: 'Chatbot UI provides a browser based GUI compatible with backends offering the OpenAI API'
   links:
-    - url: https://github.com/mckaywrigley/chatbot-ui
+    - url: https://github.com/gpustack/gpustack
       title: Website
       type: website
       icon: WebAsset
