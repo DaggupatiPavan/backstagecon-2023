@@ -197,7 +197,7 @@ metadata:
       title: Website
       type: website
       icon: WebAsset
-    - url: http://localhost:3001
+    - url: http://localhost:8080
       title: GUI
       type: website
       icon: WebAsset
